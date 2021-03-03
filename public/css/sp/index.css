@@ -1,0 +1,12 @@
+@media screen and (max-width: 450px) and (min-height: 300px){
+	body{
+		margin: 1% 1% 10% 1%;
+	}
+
+	.startButton{
+		display: block;
+  		text-align:center;
+		width: 50vw;
+		font-size: 7vw;
+	}
+}
